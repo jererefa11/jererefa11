@@ -1,0 +1,12 @@
+<script>
+window.embeddedChatbotConfig = {
+chatbotId: "uW6d72QK9KY7keuayye5V",
+domain: "www.chatbase.co"
+}
+</script>
+<script
+src="https://www.chatbase.co/embed.min.js"
+chatbotId="uW6d72QK9KY7keuayye5V"
+domain="www.chatbase.co"
+defer>
+</script>
